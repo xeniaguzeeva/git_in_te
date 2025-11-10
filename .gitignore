@@ -3,6 +3,5 @@
 .dbeaver/project-metadata.json
 .dbeaver/project-settings.json
 *.bm
-.dbeaver/credentials-config*
 .dbeaver/.configuration
 *.bak
