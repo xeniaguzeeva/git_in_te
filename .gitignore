@@ -1,6 +1,5 @@
 .dbeaver/credentials-config*
 .dbeaver/task-stats
-.dbeaver/project-settings.json
 *.bm
 .dbeaver/data-sources*
 .dbeaver/.configuration
