@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><dataset draft="false"><queries><query id="103bc962-2f70-4471-b18c-5c6c07276155" data-source="mysql8-19a6d082ea0-c5de3461338687e" catalog="sakila"><text><![CDATA[select 1
+LIMIT 0, 100]]></text></query></queries></dataset>
